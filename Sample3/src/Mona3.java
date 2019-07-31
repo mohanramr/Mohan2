@@ -24,6 +24,7 @@ public class Mona3 {
 	       if(orig == rev)
 	       {
 	           System.out.print("Reverse is Equal to Original");
+		       System.out.print("Hello java code succefull");
 	       }
 	       else
 	       {
